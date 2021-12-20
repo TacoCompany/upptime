@@ -15,12 +15,12 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Taco Status
-  introTitle: "Taco Status page"
+  introTitle: "Taco API status page"
   introMessage: This is a status page for the APIs used by Taco app
   navbar:
     - title: Status
       href: /
-    - title: Taco
+    - title: Taco Website
       href: https://tacocrypto.io
 
 # Upptime also supports notifications, assigning issues, and more
