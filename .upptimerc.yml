@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: AtomicAssets (AtomicHub)
-    url: https://wax.api.atomicassets.io/assets/1099548897666
+    url: https://wax.api.atomicassets.io/atomicassets/v1/assets/1099548897666
   - name: Balances API (EOS Amsterdam)
     url: https://lightapi.eosamsterdam.net/api/balances/wax/eosio.token
 
