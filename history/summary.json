@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/wax.api.atomicassets.io",
     "slug": "atomic-assets-atomic-hub",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 419,
-    "timeDay": 405,
-    "timeWeek": 444,
-    "timeMonth": 419,
-    "timeYear": 419,
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 418,
+    "timeDay": 404,
+    "timeWeek": 440,
+    "timeMonth": 418,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2021-12-20": 176
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 481,
-    "timeDay": 494,
-    "timeWeek": 461,
-    "timeMonth": 481,
-    "timeYear": 481,
+    "time": 480,
+    "timeDay": 444,
+    "timeWeek": 454,
+    "timeMonth": 480,
+    "timeYear": 480,
     "dailyMinutesDown": {}
   }
 ]
