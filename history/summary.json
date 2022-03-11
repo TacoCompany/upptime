@@ -25,19 +25,19 @@
     "url": "https://lightapi.eosamsterdam.net/api/balances/wax/eosio.token",
     "icon": "https://favicons.githubusercontent.com/lightapi.eosamsterdam.net",
     "slug": "balances-api-eos-amsterdam",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.93%",
     "time": 492,
-    "timeDay": 466,
-    "timeWeek": 437,
+    "timeDay": 463,
+    "timeWeek": 440,
     "timeMonth": 471,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2022-03-11": 0,
+      "2022-03-11": 26,
       "2022-01-26": 58
     }
   }
