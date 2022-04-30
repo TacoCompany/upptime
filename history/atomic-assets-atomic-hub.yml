@@ -1,7 +1,7 @@
 url: https://wax.api.atomicassets.io/atomicassets/v1/assets/1099548897666
-status: down
-code: 520
-responseTime: 1081
-lastUpdated: 2022-04-30T16:28:01.498Z
+status: up
+code: 200
+responseTime: 395
+lastUpdated: 2022-04-30T16:56:49.210Z
 startTime: Mon Dec 20 2021 09:50:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
