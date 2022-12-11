@@ -1,7 +1,7 @@
 url: https://lightapi.eosamsterdam.net/api/balances/wax/eosio.token
-status: up
-code: 200
-responseTime: 419
-lastUpdated: 2022-12-11T03:04:33.286Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-12-11T07:18:52.610Z
 startTime: Mon Dec 20 2021 09:50:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
