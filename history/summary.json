@@ -4,7 +4,7 @@
     "url": "https://wax.api.atomicassets.io/atomicassets/v1/assets/1099548897666",
     "icon": "https://icons.duckduckgo.com/ip3/wax.api.atomicassets.io.ico",
     "slug": "atomic-assets-atomic-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 445,
     "timeYear": 488,
     "dailyMinutesDown": {
+      "2023-06-01": 0,
       "2023-01-03": 16,
       "2022-10-08": 21,
       "2022-09-27": 33,
