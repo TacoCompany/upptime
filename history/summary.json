@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 466,
-    "timeDay": 240,
-    "timeWeek": 344,
-    "timeMonth": 374,
+    "timeDay": 342,
+    "timeWeek": 356,
+    "timeMonth": 368,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2023-01-03": 16,
@@ -21,8 +21,7 @@
       "2022-09-27": 33,
       "2022-09-10": 25,
       "2022-08-12": 18,
-      "2022-08-11": 21,
-      "2022-08-10": 30
+      "2022-08-11": 21
     }
   },
   {
@@ -32,15 +31,15 @@
     "slug": "balances-api-eos-amsterdam",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "97.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.92%",
     "time": 428,
-    "timeDay": 422,
-    "timeWeek": 414,
-    "timeMonth": 392,
-    "timeYear": 420,
+    "timeDay": 566,
+    "timeWeek": 429,
+    "timeMonth": 399,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2023-08-08": 32,
       "2023-02-23": 95,
