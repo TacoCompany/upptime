@@ -5,20 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wax.api.atomicassets.io.ico",
     "slug": "atomic-assets-atomic-hub",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 397,
-    "timeDay": 98,
-    "timeWeek": 236,
-    "timeMonth": 248,
-    "timeYear": 374,
+    "timeDay": 230,
+    "timeWeek": 231,
+    "timeMonth": 247,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2023-11-28": 152,
-      "2023-11-27": 39,
-      "2023-01-03": 16
+      "2023-11-27": 39
     }
   },
   {
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 418,
-    "timeDay": 508,
-    "timeWeek": 467,
-    "timeMonth": 398,
+    "timeDay": 406,
+    "timeWeek": 469,
+    "timeMonth": 399,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2023-08-08": 32,
