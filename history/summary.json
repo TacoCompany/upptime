@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1024,
-    "timeDay": 289,
-    "timeWeek": 298,
-    "timeMonth": 342,
+    "timeDay": 329,
+    "timeWeek": 283,
+    "timeMonth": 310,
     "timeYear": 332,
-    "dailyMinutesDown": {
-      "2024-06-26": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Balances API (EOS Amsterdam)",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 742,
-    "timeDay": 1450,
-    "timeWeek": 1240,
-    "timeMonth": 1167,
-    "timeYear": 851,
+    "time": 744,
+    "timeDay": 1048,
+    "timeWeek": 1219,
+    "timeMonth": 1168,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2025-01-21": 16,
       "2024-12-21": 22,
