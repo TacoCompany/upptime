@@ -4,18 +4,20 @@
     "url": "https://wax.api.atomicassets.io/atomicassets/v1/assets/1099548897666",
     "icon": "https://icons.duckduckgo.com/ip3/wax.api.atomicassets.io.ico",
     "slug": "atomic-assets-atomic-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 840,
-    "timeDay": 259,
-    "timeWeek": 343,
-    "timeMonth": 323,
-    "timeYear": 335,
-    "dailyMinutesDown": {}
+    "time": 848,
+    "timeDay": 9997,
+    "timeWeek": 2767,
+    "timeMonth": 949,
+    "timeYear": 388,
+    "dailyMinutesDown": {
+      "2025-07-04": 0
+    }
   },
   {
     "name": "Balances API (EOS Amsterdam)",
